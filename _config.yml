@@ -4,7 +4,6 @@ theme: minima
 #baseurl: "/atlassian-apps-page" # set to "/repo-name" if using a project site
 #url: "https://outtay.github.io"
 
-minima:
-  header_pages:
-    - index.md
-    - apps/index.md
+header_pages:
+  - index.md
+  - apps/index.md
