@@ -3,3 +3,8 @@ description: Atlassian apps and their details
 theme: minima
 baseurl: "/atlassian-apps-page" # set to "/repo-name" if using a project site
 url: "https://outtay.github.io"
+
+minima:
+  nav_pages:
+    - index.md
+    - apps/index.md
