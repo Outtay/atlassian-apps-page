@@ -1,3 +1,5 @@
-title: My Jekyll Site
-description: Built on GitHub Pages
+title: Ottis Atlassian Apps
+description: Atlassian apps and their details
 theme: minima
+baseurl: "/atlassian-apps-page" # set to "/repo-name" if using a project site
+url: "https://outtay.github.io"
