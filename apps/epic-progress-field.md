@@ -8,7 +8,7 @@ Short description of what the app does or does not.
 
 ## Privacy Policy
 
-**Effective Date:** 31 May 2025 
+**Effective Date:** 31 May 2025  
 **Developer:** Florian Otti
 
 This app does **not collect, store, or share any personal data**.
