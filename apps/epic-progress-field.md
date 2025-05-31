@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Epic Progress Field
 ---
 
 # Epic Progress Field
