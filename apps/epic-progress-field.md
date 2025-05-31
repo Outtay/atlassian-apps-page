@@ -4,7 +4,7 @@ layout: post
 
 # Epic Progress Field
 
-Short description of what the app does.
+Short description of what the app does or does not.
 
 ## Privacy Policy
 
