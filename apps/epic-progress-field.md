@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Epic Progress Field
 ---
-
-# Epic Progress Field
 
 Short description of what the app does or does not.
 
