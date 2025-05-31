@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Epic Progress Field
+#title: Epic Progress Field
 ---
 
 # Epic Progress Field
