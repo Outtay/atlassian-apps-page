@@ -12,4 +12,4 @@ I'm happy to hear your ideas — feature requests or app suggestions.
 
 ## Available Apps
 
-- [Epic Progress Field](/atlassian-apps-page/apps/epic-progress-field/)
+- [Epic Progress Field](/atlassian-apps-page/apps/epic-progress-field)
