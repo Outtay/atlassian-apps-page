@@ -3,7 +3,17 @@ layout: page
 title: Epic Progress Field
 ---
 
-Short description of what the app does or does not.
+Epic Progress Field adds a lightweight, automatic way to view progress across your Epics.  
+
+It introduces a custom field that summarizes issue status counts within each Epic. For example, 2/3/0 for To Do / In Progress / Done.  
+Add this field to your board card layout to see how an Epic is progressing without opening the issue or running reports. 
+
+## Key features
+
+- Automatically calculates and updates progress for each Epic
+- Designed to be added to Jira board cards for instant visibility
+- Works with your existing workflows and statuses
+- Also useful for dashboards and filters
 
 ## Privacy Policy
 
